@@ -1,0 +1,24 @@
+# 秘密情報
+.env
+.env.*
+
+# 仮想環境
+venv/
+
+# OS/エディタのファイル
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Pythonの一時ファイル（これがないとGitHubがゴミファイルだらけになります）
+__pycache__/
+*.pyc
+
+# 漢字Botの画像データ（GitHubの容量制限対策）
+exports/
+output/
+
+# 環境変数（念のため複数パターンをブロック）
+.env.local
+.env.dev
