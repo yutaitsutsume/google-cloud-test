@@ -1,0 +1,11 @@
+discord.py==2.3.2
+python-dotenv==1.0.0
+opencv-python==4.8.0.76
+numpy==1.25.2
+Pillow==10.0.0
+Flask
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+sympy
+pint
